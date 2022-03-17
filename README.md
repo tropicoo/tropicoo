@@ -10,4 +10,5 @@ Check my projects:
 
 ### Support me
 
+- PayPal [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MA6RKYAZH9DSA)
 - Bitcoin wallet `14kMRS8SvfD2ydMSMEyAmefHV3Yynf9kAd`
