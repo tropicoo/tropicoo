@@ -19,4 +19,4 @@ My name is Taras Terletsky. I'm software engineer from Ukraine 🇺🇦 with str
 
 [//]: # ([![JetBrains]&#40;https://resources.jetbrains.com/storage/products/company/brand/logos/jb_square.svg&#41;]&#40;https://jetbrains.com&#41;)
 <a href="https://jetbrains.com" target="_blank"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_square.svg" alt="JetBrains" width="100"></a>
-<p><a href="https://www.syntevo.com" target="_blank"><img src="https://www.syntevo.com/assets/images/logos/syntevo-0b0da4ee.svg" alt="Syntevo" width="200"></a></p>
+<p><a href="https://www.syntevo.com" target="_blank"><img src="https://www.syntevo.com/assets/images/logos/syntevo-b341927f.svg" alt="Syntevo" width="200"></a></p>
