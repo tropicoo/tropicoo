@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Taras Terletsky. I'm software engineer from Ukraine 🇺🇦 with strong interest in all things digital and beyond.
+I'm software engineer from Ukraine 🇺🇦 with strong interest in all things digital and beyond.
 
 ### Projects
 - [hikvision-camera-bot](https://github.com/tropicoo/hikvision-camera-bot) — The Telegram Bot designed for Hikvision cameras with a wide range of features such as capturing images, creating video-gifs upon motion detection, and sending various alerts.
